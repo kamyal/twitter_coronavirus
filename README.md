@@ -1,4 +1,6 @@
 # Coronavirus twitter analysis
+For this project, I had to fix the code on the map.py file to ensure that the the hashtags were being counted on a country and language level
+Then I had to create a reduced.lang and reduced.country files that was counting the hashtags in the languages and countries 
 
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
 
